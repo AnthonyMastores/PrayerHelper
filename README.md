@@ -1,2 +1,2 @@
-# TwitterAutoCatholic
-A simple Twitter Bot that tweets out a Catholic prayer every 30 minutes while running.
+# PrayerHelper
+A simple program that prints out a Catholic prayer every 60 seconds to aid in prayer.
